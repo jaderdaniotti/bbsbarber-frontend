@@ -159,13 +159,7 @@ body {
 
 /* #region NAVBAR */
 
-#logoNavbar,
-#navbar {
-    transition: height 0.3s ease;
-}
-#logoNavbar {
-    height: 150px;
-}
+
 
 /* #endregion */
 
